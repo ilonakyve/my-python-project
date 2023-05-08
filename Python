@@ -1,0 +1,6 @@
+# Пример кода на Python
+
+def hello(name):
+    print("Привет, " + name)
+
+hello("Мир")
